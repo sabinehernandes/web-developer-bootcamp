@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Race form</title>
+</head>
+
+<body>
+    <h2>Register for the race below</h2>
+    <form>
+        <div>
+            <label for="first-name">First name</label>
+            <input type="text" name="first-name" id="first-name" required>
+        </div>
+        <div>
+            <label for="last-name">Last name</label>
+            <input type="text" name="last-name" id="last-name" required>
+        </div>
+        <p>Select a race</p>
+        <div>
+            <input type="radio" name="race" id="fun" value="fun">
+            <label for="fun">Fun Run 5k</label>
+        </div>
+        <div>
+            <input type="radio" name="race" id="half" value="half">
+            <label for="half">Half Marathon</label>
+        </div>
+        <div>
+            <input type="radio" name="race" id="full" value="full">
+            <label for="full">Full Marathon</label>
+        </div>
+        <div>
+            <label for="emal">Email</label>
+            <input type="email" name="email" id="email" required>
+            <label for="password">Password</label>
+            <input type="password" name="password" id="password" required>
+        </div>
+        <div>
+            <label for="division">Select age group</label>
+            <select name="division" id="division">
+                <option value="kids">under 18</option>
+                <option value="ya">18-30</option>
+                <option value="adults">30-50</option>
+                <option value="seniors">50+</option>
+            </select>
+        </div>
+        <div>
+            <label for="comments">Any comments?</label>
+            <br>
+            <textarea name="comments" id="comments" cols="30" rows="4" placeholder="Add your comment here"></textarea>
+        </div>
+        <input type="checkbox" name="accept-tos" id="accept-tos" required>
+        <label for="accept-tos">I accept the terms</label>
+        <div>
+            <button>Register</button>
+        </div>
+    </form>
+</body>
+
+</html>
