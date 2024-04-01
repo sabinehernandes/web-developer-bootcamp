@@ -23,3 +23,12 @@ Applied concepts:
 
 - <code>em</code>, <code>vh</code>
 - <code>transition</code>, <code>transform</code>, <code>:hover</code>, <code>cursor</code>
+
+<h3>Pricing Panel</h3>
+Responsive (for both mobile and desktop) pricing panel using the following concepts:
+
+- Flexbox <code>display</code>, <code>flex-direction</code>, <code>justify-content</code>, <code>align-items</code>
+- <code>box-sizing</code>
+- Pseudoselectors <code>:last-child</code>, <code>:hover</code>, <code>:focus</code>
+- <code>@media</code>
+- CSS reset
