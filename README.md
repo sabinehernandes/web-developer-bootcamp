@@ -32,3 +32,9 @@ Responsive (for both mobile and desktop) pricing panel using the following conce
 - Pseudoselectors <code>:last-child</code>, <code>:hover</code>, <code>:focus</code>
 - <code>@media</code>
 - CSS reset
+
+<h3>Museum of Cats</h3>
+Responsive website using the following:
+
+- Bootstrap <code>nav</code>, grid system, <code>img-fluid</code> 
+- <code>@media</code>
