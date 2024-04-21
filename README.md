@@ -38,3 +38,9 @@ Responsive website using the following:
 
 - Bootstrap <code>nav</code>, grid system, <code>img-fluid</code> 
 - <code>@media</code>
+
+<h2>JavaScript</h2>
+<h3>Guess Game</h3>
+Numeric guess game using the followin JS properties:
+
+- Loops <code>while</code>, <code>if</code>, <code>else</code>, <code>else if</code>
