@@ -41,6 +41,13 @@ Responsive website using the following:
 
 <h2>JavaScript</h2>
 <h3>Guess Game</h3>
-Numeric guess game using the followin JS properties:
+Numeric guess game using the following JS properties:
 
 - Loops <code>while</code>, <code>if</code>, <code>else</code>, <code>else if</code>
+
+<h3>To do List</h3>
+Simple to do list application combining user input and:
+
+- Loops <code>while</code>, <code>for</code>, <code>if</code>, <code>else</code>, <code>else if</code>
+- Iterating over arrays
+- Adding and deleting items from an array
