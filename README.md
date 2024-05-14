@@ -51,3 +51,10 @@ Simple to do list application combining user input and:
 - Loops <code>while</code>, <code>for</code>, <code>if</code>, <code>else</code>, <code>else if</code>
 - Iterating over arrays
 - Adding and deleting items from an array
+
+<h3>Pokémon Sprite</h3>
+Pokémon gallery created using:
+
+- DOM <code>querySelector</code>, <code>createElement</code>, 
+<code>classList</code>, <code>appendChild</code>
+- Iterating over a base URL to generate the sprites and populate them over the page
