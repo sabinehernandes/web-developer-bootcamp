@@ -58,3 +58,10 @@ Pokémon gallery created using:
 - DOM <code>querySelector</code>, <code>createElement</code>, 
 <code>classList</code>, <code>appendChild</code>
 - Iterating over a base URL to generate the sprites and populate them over the page
+
+<h3>Color Generator</h3>
+RGB color generator created using:
+
+- DOM <code>querySelector</code>
+- <code>addEventListener</code>
+- Styling (changing background color and <code>innerText</code>) using JS
