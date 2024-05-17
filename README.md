@@ -71,3 +71,4 @@ Simple form app that works with the JS properties:
 
 - <code>input</code> events
 - Event delegation with <code>e.target</code>
+- Removing elements with a click
