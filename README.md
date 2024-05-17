@@ -65,3 +65,9 @@ RGB color generator created using:
 - DOM <code>querySelector</code>
 - <code>addEventListener</code>
 - Styling (changing background color and <code>innerText</code>) using JS
+
+<h3>Form Events</h3>
+Simple form app that works with the JS properties:
+
+- <code>input</code> events
+- Event delegation with <code>e.target</code>
