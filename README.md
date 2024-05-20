@@ -72,3 +72,9 @@ Simple form app that works with the JS properties:
 - <code>input</code> events
 - Event delegation with <code>e.target</code>
 - Removing elements with a click
+
+<h3>Ping Pong Score Keeper</h3>
+Score keeper built using:
+
+- Bulma CSS Framework
+- Updating and reseting variables and buttons with DOM properties
