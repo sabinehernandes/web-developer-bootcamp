@@ -78,3 +78,12 @@ Score keeper built using:
 
 - Bulma CSS Framework
 - Updating and reseting variables and buttons with DOM properties
+
+<h3>TV Show Search</h3>
+TV Show search built with:
+
+- Acessing user inputs
+- Query strings
+- <code>async</code> functions
+- AXIOS library to make HTTP requests
+- Form <code>e.preventDefault()</code>
