@@ -87,3 +87,10 @@ TV Show search built with:
 - <code>async</code> functions
 - AXIOS library to make HTTP requests
 - Form <code>e.preventDefault()</code>
+
+<h2>React</h2>
+<h3>Pokemon Random</h3>
+Generates random Pokemons
+
+- Component structure and component styling
+- JS expressions in JSX with <code>{}</code>
